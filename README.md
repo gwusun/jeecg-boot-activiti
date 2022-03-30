@@ -9,10 +9,6 @@ https://github.com/happy-panda/jeecg-boot-activiti
  
 
 # 效果演示
-工作流
-![](static/Pasted image 20220330154925.png)
-
-动态图
 ![](static/jeecg-activiti.gif)
 # 适用范围
 jeecg-boot: 2.4.2
