@@ -12,10 +12,12 @@ https://github.com/happy-panda/jeecg-boot-activiti
 ![](static/jeecg-activiti.gif)
 # 适用范围
 jeecg-boot: 2.4.2
+
 activiti: 5.22.0 ( https://www.activiti.org/get-started )
 
 # 集成过程
 如果您不想用我集成好的成品, 那您可以手动集成.请按照下面步骤集成.
+
 完整版请查看项目根目录下的文件: jeecgboot集成jeecg-boot-activiti.pdf
 
 # 前端教程
