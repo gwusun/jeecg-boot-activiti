@@ -1,8 +1,10 @@
 # 目标
-集成 `activiti 5.22.0` 到 `Jeecg Boot 2.4.2`, activiti 来源
-https://github.com/happy-panda/jeecg-boot-activiti
+集成 `activiti 5.22.0` 到 `Jeecg Boot 2.4.2`.
 
-只集成了 mysql 5.7, 其他数据库, 请参考下文中手动集成部分.
+只集成了 mysql 5.7. 其他数据库, 请参考下文中手动集成部分.
+
+activiti 来源:
+https://github.com/happy-panda/jeecg-boot-activiti
 
 # 安装和配置
 配置过程请参考jeecgboot, 并导入 `jeecg-boot-and-activiti-mysql5.7.sql` 到数据库. 
