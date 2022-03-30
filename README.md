@@ -11,7 +11,7 @@ https://github.com/happy-panda/jeecg-boot-activiti
 # 效果演示
 ![](static/jeecg-activiti.gif)
 # 适用范围
-jeecg-boot: 2.4.2
+jeecg-boot: 2.4.2 (https://gitee.com/jeecg/jeecg-boot/tree/v2.4.2/)
 
 activiti: 5.22.0 ( https://www.activiti.org/get-started )
 
