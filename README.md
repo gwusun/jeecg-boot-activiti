@@ -8,7 +8,10 @@ https://github.com/happy-panda/jeecg-boot-activiti
 
 # 安装和配置
 配置过程请参考jeecgboot, 并导入 `jeecg-boot-and-activiti-mysql5.7.sql` 到数据库. 
- 
+
+修改 `application-dev.yml`
+
+集成成功!!!
 
 # 效果演示
 ![](static/jeecg-activiti.gif)
